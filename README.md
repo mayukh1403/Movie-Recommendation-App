@@ -5,7 +5,7 @@ This is a content-based movie recommender system built using Python and Streamli
 ## Live App
 
 Access the app here:  
-[https://movierecommender-divyeb.streamlit.app](https://movierecommender-divyeb.streamlit.app)
+[streamlit link](https://movierecommender-divyeb.streamlit.app)
 
 ## Features
 
